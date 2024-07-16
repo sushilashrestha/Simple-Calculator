@@ -1,6 +1,6 @@
 # Calculator with Dark Mode
 
-This project is a simple calculator web application with a dark mode toggle feature. It was developed as part of the software fellowship participation.[Program organized by Pulchowk Campus]
+This project is a simple calculator web application with a dark mode toggle feature. It was developed as part of the software fellowship participation. [Program organized by Pulchowk Campus]
 
 ## Features
 
