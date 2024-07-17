@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
         updateOutput(result);
         currentExpression = result.toString();
       } catch (error) {
-        updateOutput("Error");
+        updateOutput("ERROR");
         currentExpression = "";
       }
     }
