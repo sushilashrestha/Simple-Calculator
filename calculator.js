@@ -21,7 +21,6 @@ document.addEventListener("DOMContentLoaded", function () {
         currentExpression = "";
       }
     }
-
   
     document.getElementById("btn-ac").addEventListener("click", function () {
       currentExpression = "";
