@@ -1,4 +1,4 @@
-# Calculator with Dark Mode
+# Calculator with Dark Mode [LumoCalc]
 
 This project is a simple calculator web application with a dark mode toggle feature. It was developed as part of the software fellowship participation. [Program organized by Pulchowk Campus]
 
